@@ -6,3 +6,6 @@ THIRD: To run the bot I use nodemon on GitBash console in VSC
 
 FOURTH: Using a function to join a voice chat will crash the bot, because it was hard-coded to join only on one specific server. 
 Please change the "server.id" in the line 128 of "index.js" if necessary.
+
+FIFTH:
+Some other needed modules include: ffmpeg, yarn, discord.js, dotenv, pnpm, etc.
