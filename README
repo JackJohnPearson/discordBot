@@ -5,4 +5,4 @@ SECOND: ".env" does not have the token to the original bot
 THIRD: To run the bot I use nodemon on GitBash console in VSC
 
 FOURTH: Using a function to join a voice chat will crash the bot, because it was hard-coded to join only on one specific server. 
-Please change the "server.id" in the line __ if necessary.
+Please change the "server.id" in the line 128 of "index.js" if necessary.
