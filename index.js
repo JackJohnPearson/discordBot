@@ -125,7 +125,7 @@ client.on('messageCreate', message => {
         }
         const connection = joinVoiceChannel({
             channelId: voiceChannel.id,
-            guildId: "1028427248891596922",
+            guildId: "1028427248891596922", // <<<<<<<< SPECIFIC GUILD ID, YOU MUST CHANGE IT TO YOUR SERVER'S ID!!!!!
             adapterCreator: voiceChannel.guild.voiceAdapterCreator
         })
         connection.subscribe(player);
