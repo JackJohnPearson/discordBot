@@ -1,0 +1,3 @@
+FIRST: MAIN CODE IS PLACED IN "index.js"
+SECOND: ".env" does not have the token
+THIRD: To run the bot I use nodemon on GitBash console in VSC
